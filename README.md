@@ -1,3 +1,18 @@
+## Notes
+
+Following a [react course](https://www.udemy.com/react-redux/learn/v4/content). Used create-react-app as a starter instead of the course's starting project so I had to add in some dependencies manually.
+
+
+
+# technologies
+This app uses
+- React
+- Redux
+- Google Maps API
+- [react-sparklines](https://www.npmjs.com/package/react-sparklines)
+- react-promise
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
