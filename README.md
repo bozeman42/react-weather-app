@@ -2,6 +2,11 @@
 
 Following a [react course](https://www.udemy.com/react-redux/learn/v4/content). Used create-react-app as a starter instead of the course's starting project so I had to add in some dependencies manually.
 
+# Setup
+You will need an API key from openweathermap.org
+
+Create a copy of example.env and rename it to .env
+put your api key in your .env file. This will keep your api key out of the git repo but will NOT hide your API key from the client.
 
 
 # technologies
